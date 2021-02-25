@@ -11,7 +11,7 @@
 // ==/UserScript==
 
 topic410 = false;
-if(document.getElementsByClassName("img-erreur")[0] && document.getElementsByClassName("img-erreur")[0].src == "http://www.jeuxvideo.com/img/erreurs/e410.png"){
+if(document.getElementsByClassName("img-erreur")[0] && document.getElementsByClassName("img-erreur")[0].src == "https://www.jeuxvideo.com/img/erreurs/e410.png"){
 	topic410 = true;
 }
 
