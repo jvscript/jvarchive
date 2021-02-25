@@ -200,5 +200,5 @@ if(topic410){
 	document.getElementsByClassName("col-md-12 text-center")[0].innerHTML = "";
 	document.getElementsByClassName("col-md-12 text-center")[1].innerHTML = "";
 	document.getElementsByClassName("col-md-12 text-center")[2].innerHTML = "<br><br><h1>Voici l'archive du topic :</h1><br>";
-	document.getElementsByClassName("col-md-12 text-center")[2].innerHTML += "<iframe style=\"width: 100%;height: 500px;\" src=\"http://archive.is/"+location.href+"\"></iframe>";
+	document.getElementsByClassName("col-md-12 text-center")[2].innerHTML += "<iframe style=\"width: 100%;height: 500px;\" src=\"https://archive.is/"+location.href+"\"></iframe>";
 }
